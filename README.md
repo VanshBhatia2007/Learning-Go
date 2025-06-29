@@ -25,4 +25,4 @@ This repo is my commitment to learning consistently and sharing what I learn eac
 
 | 📅 Day   | 📚 Topic / What I Learned                     | 📁 Code |
 |--------|-----------------------------------------------|--------|
-| Day 01 |Getting Started | [<Link Text>](<Folder Path>) |
+| Day 01 |Getting Started | day01 |
