@@ -1,11 +1,17 @@
 #!/bin/bash
 
-for dir in day*/; do
-  if [[ -f "$dir/main.go" ]]; then
-    echo "Running $dir..."
-    go run "$dir/main.go" > "$dir/output.txt"
-    echo "Saved output to $dir/output.txt ✅"
-  else
-    echo "⚠️ Skipping $dir (no main.go found)"
-  fi
+# Loop through each "dayXX" folder (e.g., day01, day02, day03)
+for day_folder in day*/; do
+  echo "📁 Searching in $day_folder..."
+
+  # Find ALL main.go files recursively inside that day folder
+  find "$day_folder" -type f -name "main.go" | while read -r main_file; do
+    # Get directory of the main.go
+    dir_of_main=$(dirname "$main_file")
+    output_file="$dir_of_main/output.txt"
+
+    echo "▶️ Running $main_file..."
+    go run "$main_file" > "$output_file"
+    echo "✅ Output saved to $output_file"
+  done
 done
