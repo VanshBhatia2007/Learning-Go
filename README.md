@@ -37,8 +37,8 @@ This repo is my commitment to learning consistently and sharing what I learn eac
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/VanshBhatia2007)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vansh-bhatia-76311422a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app])
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)]([https://twitter.com/your-handle](https://x.com/vanshb335?t=wYs66CkM2erUVwvaAjvuSw&s=09))
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)]([https://instagram.com/your-username](https://www.instagram.com/vanshbhatia15?igsh=ZGs1c3Bha3UwMTk=))
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)]([https://x.com/vanshb335?t=wYs66CkM2erUVwvaAjvuSw&s=09])
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)]([https://www.instagram.com/vanshbhatia15?igsh=ZGs1c3Bha3UwMTk=])
 
 ## 📄 License
 
