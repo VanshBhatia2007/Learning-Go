@@ -47,14 +47,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 Thanks for checking out my Go learning journey! 😊  
 Feel free to star ⭐ the repo and follow along!
-
-
-
-| 01 July | nothng | [day03/](./day03//) |
-| 01 July | nothing | [day03/](./day03//) |
-| 01 July | nothing' | [day03/](./day03//) |
-| 01 July | nothing | [day03/](./day03//) |
-| 01 July | nothing | [day03/](./day03//) |
-| 01 July | variable | [day03/](./day03//) |
-| 01 July | variable | [day03/](./day03//) |
-| 01 July | variaBle | [day03/](./day03//) |
