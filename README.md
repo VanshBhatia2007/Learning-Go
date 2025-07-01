@@ -27,6 +27,7 @@ This repo is my commitment to learning consistently and sharing what I learn eac
 |--------|-----------------------------------------------|--------|
 | Day 01 |Getting Started(Hello World) |  [day01](day01) |
 | Day 02 |Simple Values |  [day02](day02) |
+| Day 03 |Variables, Constants, Formating Output  |  [day03](day03) |
 
 
 
