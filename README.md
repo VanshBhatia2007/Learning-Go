@@ -50,3 +50,11 @@ Feel free to star ⭐ the repo and follow along!
 
 
 
+| 01 July | nothng | [day03/](./day03//) |
+| 01 July | nothing | [day03/](./day03//) |
+| 01 July | nothing' | [day03/](./day03//) |
+| 01 July | nothing | [day03/](./day03//) |
+| 01 July | nothing | [day03/](./day03//) |
+| 01 July | variable | [day03/](./day03//) |
+| 01 July | variable | [day03/](./day03//) |
+| 01 July | variaBle | [day03/](./day03//) |
