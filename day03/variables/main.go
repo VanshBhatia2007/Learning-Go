@@ -16,6 +16,10 @@ func main() {
 	//int
 	var hisage int = 17
 
-	fmt.Println("hello i am", name, "are you adult true/false=", isadult, "my age is", hisage)
+	//shorthand
+
+	sirname := "bhatia"
+
+	fmt.Println("hello i am", name, "are you adult true/false=", isadult, "my age is", hisage, "my sirname is", sirname)
 
 }
