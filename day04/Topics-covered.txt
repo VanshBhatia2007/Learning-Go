@@ -1,0 +1,6 @@
+1. add & sub
+2. concat
+3. ignoring return values
+4. increment
+5.named return values
+6. swap
