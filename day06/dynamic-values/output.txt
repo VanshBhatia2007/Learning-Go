@@ -1,0 +1,3 @@
+value of s: <nil>
+type of s %!t(<nil>)
+ :

@@ -1,0 +1,2 @@
+area of circle 78.53981633974483
+area of rectangle 12

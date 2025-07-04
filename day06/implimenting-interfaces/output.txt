@@ -1,0 +1,4 @@
+area of circle: 314.1592653589793
+perimeter of circle: 62.83185307179586
+area of rectangle: 200
+perimeter of rectangle: 60
