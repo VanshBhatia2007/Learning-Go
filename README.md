@@ -31,6 +31,7 @@ This repo is my commitment to learning consistently and sharing what I learn eac
 | Day 04 |Functions  |  [day04](day04) |
 | Day 05 |Struct  |  [day05](day05) |
 | Day 06 |Interfaces  |  [day06](day06) |
+| Day 07 |Errors  |  [day07](day07) |
 
 
 
