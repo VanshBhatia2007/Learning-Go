@@ -32,7 +32,7 @@ This repo is my commitment to learning consistently and sharing what I learn eac
 | Day 05 |Struct  |  [day05](day05) |
 | Day 06 |Interfaces  |  [day06](day06) |
 | Day 07 |Errors  |  [day07](day07) |
-
+| Day 08 |Loops  |  [day08](day08) |
 
 
 
