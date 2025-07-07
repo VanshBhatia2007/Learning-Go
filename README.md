@@ -33,6 +33,7 @@ This repo is my commitment to learning consistently and sharing what I learn eac
 | Day 06 |Interfaces  |  [day06](day06) |
 | Day 07 |Errors  |  [day07](day07) |
 | Day 08 |Loops  |  [day08](day08) |
+| Day 09 |Slices  |  [day09](day09) |
 
 
 
