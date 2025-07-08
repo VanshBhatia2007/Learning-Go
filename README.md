@@ -34,6 +34,7 @@ This repo is my commitment to learning consistently and sharing what I learn eac
 | Day 07 |Errors  |  [day07](day07) |
 | Day 08 |Loops  |  [day08](day08) |
 | Day 09 |Slices  |  [day09](day09) |
+| Day 10 |Maps  |  [day10](day10) |
 
 
 
