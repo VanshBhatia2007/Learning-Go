@@ -1,0 +1,2 @@
+map[a:aditya v:vansh]
+map[aditya:20 vansh:10]
