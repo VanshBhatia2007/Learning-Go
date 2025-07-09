@@ -1,0 +1,2 @@
+map[aditya:20 vansh:10] map[aditya:20 vansh:10]
+map[aditya:40 vansh:10] map[aditya:40 vansh:10]
