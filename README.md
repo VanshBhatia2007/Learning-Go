@@ -36,6 +36,7 @@ This repo is my commitment to learning consistently and sharing what I learn eac
 | Day 09 |Slices  |  [day09](day09) |
 | Day 10 |Maps  |  [day10](day10) |
 | Day 11 |Maps part-2  |  [day11](day11) |
+| Day 12 |Advanced Functions |  [day12](day12) |
 
 
 
